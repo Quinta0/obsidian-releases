@@ -1986,4 +1986,11 @@
     "screenshot": "images/screenshot.png",
     "modes": ["dark", "light"]
   }
+	{
+		"name": "chiaroscuroflow",
+	    	"author": "Quinta0",
+	    	"repo": "Quinta0/chiaroscuroflow",
+	    	"screenshot": "image.png",
+	    	"modes": ["dark", "light"]
+	}
 ]
